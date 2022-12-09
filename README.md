@@ -38,6 +38,20 @@ If you want to generate .exe use pyinstaller or another tool.
 
 > THIS IS FOR EDUCATIONAL PURPOSES ONLY!!! EXECUTE THIS CODE BY YOUR OWN RISK. WE ARE NOT responsible for accidents or damages relating to THIS CODE.
 
+# Matrices for McEliece used
+
+SGP = [{1,1,1,1,1,1,1},{1,1,0,0,1,0,0},{1,1,0,1,0,1,0},{0,1,0,0,1,1,1}]
+
+S = [{1,1,1,1},{1,0,0,1},{1,1,1,0},{0,1,0,1}]
+S^-1 = [{1,1,1,0}, {1,0,1,1},{0,1,1,1},{1,0,1,0}]
+
+G = [{1,1,0,1,0,0,1},{0,1,0,1,0,1,0},{1,1,1,0,0,0,0},{1,0,0,1,1,0,0}]
+
+P = [{0,0,0,0,0,0,1},{0,1,0,0,0,0,0},{0,0,0,1,0,0,0},{0,0,1,0,0,0,0},{0,0,0,0,1,0,0},{0,0,0,0,0,1,0},{1,0,0,0,0,0,0}]
+Note: p^-1 == p
+
+H = [{0,0,0,1,1,1,1},{0,1,1,0,0,1,1},{1,0,1,0,1,0,1}]
+and its transpose.
 
 # Authors
 
