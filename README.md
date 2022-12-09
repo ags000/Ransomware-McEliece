@@ -11,7 +11,7 @@
 Please if you execute this, do it in a Virtual Machine or in a secured-system.
 
 
-First, run Serverc.py in a computer.
+First, run Serverc.py in a computer. You have to change the IP of server in Serverc.py, Ran.py and Des.py.
 
 > python Serverc.py
 
