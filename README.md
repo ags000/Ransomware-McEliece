@@ -11,7 +11,8 @@
 Please if you execute this, do it in a Virtual Machine or in a secured-system.
 
 
-First, run Serverc.py in a computer. You have to change the IP of server in Serverc.py, Ran.py and Des.py.
+First, run Serverc.py in a computer. You could change the IP of server in Serverc.py, Ran.py and Des.py.
+Now, it is in localhost. Server and Ransomware must run in same computer.
 
 > python Serverc.py
 
