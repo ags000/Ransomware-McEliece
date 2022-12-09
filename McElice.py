@@ -1,5 +1,5 @@
 """
-A brief class which uses McElice encryption method. 
+A brief class which uses McEliece encryption method. 
 For example, an AES key is going be encrypted. Nevertheless, you can replace it. This method encrypts whatever you want.
 
 Here, we encode with a matrix composed of the multiplication of three matrices (S, G and P).
