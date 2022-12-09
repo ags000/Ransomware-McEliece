@@ -40,6 +40,8 @@ If you want to generate .exe use pyinstaller or another tool.
 
 # Matrices for McEliece used
 
+The AES key is encoded with McEliece, Ham(3,2) also known as Ham(7,4,3)  
+
 SGP = [{1,1,1,1,1,1,1},{1,1,0,0,1,0,0},{1,1,0,1,0,1,0},{0,1,0,0,1,1,1}]
 
 S = [{1,1,1,1},{1,0,0,1},{1,1,1,0},{0,1,0,1}]
