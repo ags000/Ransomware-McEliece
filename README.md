@@ -1,5 +1,5 @@
 
-# Install modules.
+# Install modules
 > pip install pycryptodome
 
 > pip install uuid
