@@ -1,7 +1,9 @@
 
 ## Install modules.
 > pip install pycryptodome
+
 > pip install uuid
+
 > pip install tk
 
 # How to use
