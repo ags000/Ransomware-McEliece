@@ -8,17 +8,14 @@
 
 # How to use
 
-Please if you execute this, do it in a Virtual Machine or in a secured-system.
+If you execute the following program, it is highly recommended doing it in a Virtual Machine or in a secured-system.
 
-
-First, run Serverc.py in a computer. You could change the IP of server in Serverc.py, Ran.py and Des.py.
-Now, it is in localhost. Server and Ransomware must run in same computer.
+First, run Serverc.py. You are able to change the IP of server in Serverc.py, Ran.py and Des.py. Once the IP has changed, it is accessible from the netwrok. 
+Currently, it is in localhost. So, Server and Ransomware must run in the same computer.
 
 > python Serverc.py
 
-
-Ransomware and decrypt must be executed in another. Server must be 
-running.
+Server must be running before executing the Ransomware o the Decrypt module. The idea is storing the server in one PC and the ransomware in another in order to see the whole process.
 
 Execute ransomware:
 
@@ -31,10 +28,9 @@ Execute desencrypt:
 The password is : TCYC2022
 
 
-It is made with python for Windows.
+Developed with python for Windows.
 
-If you want to generate .exe use pyinstaller or another tool. 
-
+You're free to generate a .exe with pyinstaller or another tool. 
 
 > THIS IS FOR EDUCATIONAL PURPOSES ONLY!!! EXECUTE THIS CODE BY YOUR OWN RISK. WE ARE NOT responsible for accidents or damages relating to THIS CODE.
 
