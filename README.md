@@ -11,11 +11,11 @@
 If you execute the following program, it is highly recommended doing it in a Virtual Machine or in a secured-system.
 
 First, run Serverc.py. You are able to change the IP of server in Serverc.py, Ran.py and Des.py. Once the IP has changed, it is accessible from the netwrok. 
-Currently, it is in localhost. So, Server and Ransomware must run in the same computer.
+Currently, it is in localhost so Server and Ransomware must run in the same computer.
 
 > python Serverc.py
 
-Server must be running before executing the Ransomware o the Decrypt module. The idea is storing the server in one PC and the ransomware in another in order to see the whole process.
+Server must be running before executing the Ransomware or the Decrypt module. The idea is to store the server in one PC whereas the ransomware is beign executed in another in order to see the whole process
 
 Execute ransomware:
 
